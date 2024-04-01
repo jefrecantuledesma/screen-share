@@ -1,5 +1,5 @@
 [package]
-name = "share_screen"
+name = "screen_share"
 version = "0.1.0"
 edition = "2021"
 
